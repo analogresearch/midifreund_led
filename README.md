@@ -14,3 +14,5 @@ programme:
 0 triggert durch note on einen kurzen 100% Blitz der auf 0 ausfaded.  
 1 triggert durch note on einen kurzen Blitz mit Starthelligkeit velocity der dann auf 0 ausfaded.  
 2 note on schaltet Led mit Helligkeit velocity ein. Helligkeit kann dann mit aftertouch poly moduliert werden. note off schaltet Led aus.  
+
+![ein Bild](midifreund_led_foto.jpg?raw=true "ein Foto")
