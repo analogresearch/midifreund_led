@@ -1,2 +1,7 @@
+# General
 .DS_Store
-.gitattributes
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
